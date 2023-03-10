@@ -1,0 +1,16 @@
+Name,Latitude,Longitude,Number of Reviews,Address,Rating,Estratos,average_inc_us,Types_str,main_street,city
+INTERRAPIDISIMO,3.4515724,-76.5319536,1,"centro herrera, Calle 3á#7-32",1.0,3,479.3824,"lodging,restaurant,food",1,Unknown
+Interrapidisimo,4.7579012,-74.0224819,1,"cr 49 a # 181-21, Bogotá",4.0,2,286.8876,"grocery_or_supermarket,store,food",0,Bogota
+interrapidisimo,4.6736853,-74.14300279999999,2,"# con Carrera 99, Bogotá",3.0,2,286.8876,"bank,finance,secondary_school",0,Bogota
+Interrapidisimo,3.4294038,-76.52133239999999,2,"Cra. 29 #23-1, Las Acacias, Cali, Valle del Cauca",3.0,2,286.8876,"atm,finance,restaurant",1,Cali
+INTERRAPIDISIMO ÁLAMOS NORTE,4.7037463,-74.11616169999999,3,"Cl. 72 #100 22, Engativá, Bogotá, Cundinamarca",5.0,3,479.3824,"pharmacy,health,store",1,Bogota
+Interrapidisimo,4.7022672,-74.0433946,4,"Local M124, Cl. 124 #15-15, Bogotá",3.0,4,785.2492,"lodging,clothing_store,store",0,Bogota
+interrapidisimo NUEVA FLORESRTA,3.4496499,-76.5045016,7,"Cl. 44 #2, Comuna 8, Cali, Valle del Cauca",3.0,3,479.3824,"finance,restaurant,food",0,Cali
+Interrapidisimo Sede la 30,6.2316264,-75.5782881,10,"Cl. 30 # 53-31, Guayabal, Medellín, Guayabal, Medellín, Antioquia",4.3,1,181.487,"hardware_store,store,car_repair",0,Medellin
+interrapidisimo colombia-cundinamarca,6.250461,-75.57028849999999,10,"Cl. 50 #52-71, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia",3.4,3,479.3824,"lodging,store,casino",0,Medellin
+Interrapidisimo El Lago,4.666545900000001,-74.05963419999999,15,"Cl. 79 #42 # 18, Bogotá",4.6,2,286.8876,"lodging,health,bank",0,Bogota
+INTERRAPIDISIMO UNIÓN PLAZA,6.2511332,-75.5668319,15,"Cra. 50 ##52-50, CC Unión Plaza Calle 50, Local 210, Medellín, Antioquia",3.6,4,785.2492,"lodging,real_estate_agency,school",0,Medellin
+INTER RAPIDISIMO,4.6150131,-74.0888269,16,"Cra. 28a #17-14, Los Mártires, Bogotá",3.9,5,933.3508,"store,finance,clothing_store",0,Bogota
+INTERRAPIDISIMO UNICENTRO,6.2403276,-75.5882278,17,"Cra. 66AA # 34-41, Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia",4.6,3,479.3824,"clothing_store,store,bank",0,Medellin
+Interrapidisimo Melendez,3.3767026,-76.5473287,18,"Cl. 4 #92-22 Local 3, Bajo Jordan, Cali, Valle del Cauca",4.1,3,479.3824,"store,police,finance",0,Cali
+INTERRAPIDISIMO SANTA LUCIA - LA FLORESTA,6.2573535,-75.603695,19,"Cl. 47A #87-14, La Floresta, Medellín, La América, Medellín, Antioquia",4.5,4,785.2492,"lawyer,clothing_store,store",0,Medellin

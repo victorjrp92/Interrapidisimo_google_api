@@ -1,0 +1,16 @@
+Name,Latitude,Longitude,Number of Reviews,Address,Rating,Estratos,average_inc_us,Types_str,city,main_street
+Servientrega,4.709815,-74.1242613,1,"Cl. 72 #108-11, Bogotá",1.0,5,933.3508,"clothing_store,store,transit_station",Bogota,1
+Servientrega Avenida El Poblado Cl34,6.2352096,-75.5699929,1,"Cra. 43A #3430, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia",1.0,2,286.8876,"travel_agency,clothing_store,store",Medellin,1
+Servientrega Mensajería Speedy,4.6990253,-74.05173479999999,2,"Av. Pepe Sierra ##207, Usaquén, Bogotá, Cundinamarca",2.5,5,933.3508,"post_office,finance,health",Bogota,1
+Servientrega av 80,6.2480163,-75.6026461,2,"Av. 80 #42-31, Simón Bolívar, Medellín, La América, Medellín, Antioquia",3.0,3,479.3824,"clothing_store,store,furniture_store",Medellin,1
+Servientrega La Flora,3.4867989,-76.525577,3,"Av 6 #22N-45, Cali, Valle del Cauca",3.0,5,933.3508,"car_repair,finance,moving_company",Cali,1
+Servientrega Principal Efectivo,4.6803183,-74.0475731,3,"Cl. 96 #1255, Bogotá",4.7,4,785.2492,"lodging,insurance_agency,health",Bogota,0
+SERVIENTREGA palace,6.2505428,-75.56757060000001,3,"Av. Palacé #51-13, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia",3.7,3,479.3824,"lodging,real_estate_agency,school",Medellin,0
+Servientrega Country,4.665680099999999,-74.0577364,5,"Cra. 15 #79-19, Localidad de Chapinero, Bogotá, Cundinamarca",4.0,5,933.3508,"lodging,grocery_or_supermarket,store",Cali,0
+Servientrega,6.233627299999999,-75.5951573,5,"Dg 74B, Medellín, Belén, Medellín, Antioquia",4.0,5,933.3508,"gas_station,university,finance",Medellin,0
+Servientrega Caribe,6.273087599999999,-75.572065,6,"Cl. 75 #72B-84, Medellín, Castilla, Medellín, Antioquia",4.0,2,286.8876,"finance,general_contractor,storage",Medellin,0
+Servientrega Internacional Cll 34,4.6236124,-74.0711175,7,"Cl 34 #16-21, Teusaquillo, Bogotá, Cundinamarca",2.1,4,785.2492,"lodging,health,doctor",Bogota,0
+Servientrega Calle 100,4.685826,-74.053876,8,"Ac. 100 #19-73, Localidad de Chapinero, Bogotá, Cundinamarca",2.9,5,933.3508,"meal_delivery,lodging,restaurant",Cali,1
+Servientrega,3.4698895,-76.5278214,8,"Av. 6 Nte. #28N-56, San Vicente, Cali, Valle del Cauca",3.1,3,479.3824,"lodging,post_office,finance",Cali,1
+Servientrega Av Guadalupe,3.4015757,-76.52445089999999,8,"Cra. 56 #18a-80, Cañaverales, Cali, Valle del Cauca",2.4,3,479.3824,"gym,health,clothing_store",Cali,1
+Servientrega,4.67824,-74.051419,9,"Cra. 15 #93-15, Localidad de Chapinero, Bogotá, Cundinamarca",4.2,4,785.2492,"lodging,clothing_store,store",Cali,0
