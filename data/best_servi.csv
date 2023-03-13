@@ -1,16 +1,16 @@
-Name,Latitude,Longitude,Number of Reviews,Address,Rating,Estratos,average_inc_us,Types_str,city,main_street
-Servientrega industriales Oficina Principal,6.2202633,-75.57581549999999,2912,"Cra. 48 # 18 - 47, El Poblado, Medellín, El Poblado, Medellín, Antioquia",3.8,6,1295.3598,"finance,post_office,health",Medellin,1
-Servientrega Dirección General,4.610147899999999,-74.10293709999999,1154,"Cl. 6 #34a-11, Bogotá",4.0,3,479.3824,"finance,food,hospital",Bogota,1
-SERVIENTREGA,3.4601111,-76.5286948,124,"Av. 4 Nte. #19N-26, San Vicente, Cali, Valle del Cauca",3.2,4,785.2492,"spa,lodging,restaurant",Cali,0
-Servientrega Acopio Cra 15 Punto directo,3.4453937,-76.51424240000001,122,"Cra. 15 # 30 a 35, Comuna 8, Cali, Valle del Cauca",3.6,3,479.3824,"store,pharmacy,health",Cali,1
-Servientrega Aeropuerto El Dorado,4.69328,-74.13129599999999,109,"Ac. 26 #22, Bogotá",3.7,3,479.3824,"post_office,finance,store",Bogota,1
-Servientrega Home Center Los Molinos,6.233524999999999,-75.60458,106,"Cl. 32 #82, Medellín, Belén, Medellín, Antioquia",4.1,4,785.2492,"shopping_mall,restaurant,food",Medellin,1
-Servientrega Buenos Aires,6.2430954,-75.5580507,103,"Cl. 49 #36-40, Medellín, Buenos Aires, Medellín, Antioquia",3.6,3,479.3824,"lodging,post_office,finance",Medellin,0
-Servientrega,3.4507861,-76.53194479999999,91,"Cra 6, esquina Calle 12 #11 - 69, COMUNA 3, Cali, Valle del Cauca",4.5,2,286.8876,"bar,lodging,restaurant",Cali,0
-SERVIENTREGA,3.4140575,-76.53293029999999,89,"Local 102, Cl. 13 #44-26, Cali, Valle del Cauca",3.7,3,479.3824,"pharmacy,health,store",Cali,1
-Servientrega Kennedy,4.623409,-74.1524562,83,"Cl. 37 Sur #78 H - 28, Kennedy, Bogotá, Cundinamarca",3.7,2,286.8876,"clothing_store,store,finance",Bogota,1
-Servientrega La Setenta,6.245317,-75.58981419999999,79,"Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia",4.2,5,933.3508,"pharmacy,health,store",Medellin,0
-Servientrega San Javier,6.2567068,-75.614046,66,"Cl. 45 #98-23, El Danubio, Medellín, San Javier, Medellín, Antioquia",3.7,2,286.8876,"finance,school,drugstore",Medellin,0
-Servientrega El Rodeo (Carulla Cristo rey),6.2051826,-75.5879253,58,"Calle 6 #52-92, Guayabal, Medellín, Guayabal, Medellín, Antioquia",4.2,4,785.2492,"finance,restaurant,food",Medellin,1
-Servientrega Siete De Agosto Cra 24,4.658138999999999,-74.070441,57,"Cra. 24 #66-45, Barrios Unidos, Bogotá, Cundinamarca",3.4,2,286.8876,"shopping_mall,lodging,finance",Bogota,1
-Servientrega Ciudad Jardin,3.3617296,-76.5315528,54,"Cl. 18 #1-5, Cañasgordas, Cali, Valle del Cauca",3.9,6,1295.3598,"lodging,hair_care,finance",Cali,1
+Name,Latitude,Longitude,Number of Reviews,Address,Rating,Estratos,average_inc_us,Types_str,city,main_street,Reviews within 150m,Entertainment,Finance,Food,Health,Shopping
+Servientrega industriales Oficina Principal,6.2202633,-75.57581549999999,2827,"Cra. 48 # 18 - 47, El Poblado, Medellín, El Poblado, Medellín, Antioquia",3.8,6,1295.3598,"finance,post_office,health,store,food",Medellin,1,154,0,4,3,4,5
+Servientrega Dirección General,4.610147899999999,-74.10293709999999,1155,"Cl. 6 #34a-11, Bogotá",4.0,3,479.3824,"finance,food,hospital,health,sublocality_level_1",Bogota,1,476,0,4,3,8,0
+SERVIENTREGA,3.4601111,-76.5286948,124,"Av. 4 Nte. #19N-26, San Vicente, Cali, Valle del Cauca",3.2,4,785.2492,"spa,lodging,food,furniture_store,home_goods_store",Cali,0,4269,0,0,3,0,10
+Servientrega Acopio Cra 15 Punto directo,3.4453937,-76.51424240000001,122,"Cra. 15 # 30 a 35, Comuna 8, Cali, Valle del Cauca",3.6,3,479.3824,"store,pharmacy,health,atm,finance",Cali,1,329,0,4,0,8,5
+Servientrega Aeropuerto El Dorado,4.69328,-74.13129599999999,109,"Ac. 26 #22, Bogotá",3.7,3,479.3824,"post_office,finance,store,moving_company,airport",Bogota,1,157,0,4,0,0,5
+Servientrega Home Center Los Molinos,6.233524999999999,-75.60458,106,"Cl. 32 #82, Medellín, Belén, Medellín, Antioquia",4.1,4,785.2492,"shopping_mall,park,store,food,clothing_store",Medellin,1,21343,2,0,3,0,15
+Servientrega Buenos Aires,6.2430954,-75.5580507,102,"Cl. 49 #36-40, Medellín, Buenos Aires, Medellín, Antioquia",3.6,3,479.3824,"lodging,post_office,finance,bank,florist",Medellin,0,1213,0,4,0,0,0
+Servientrega,3.4507861,-76.53194479999999,91,"Cra 6, esquina Calle 12 #11 - 69, COMUNA 3, Cali, Valle del Cauca",4.5,2,286.8876,"bar,lodging,food,lawyer,finance",Cali,0,1051,2,4,3,0,0
+SERVIENTREGA,3.4140575,-76.53293029999999,89,"Local 102, Cl. 13 #44-26, Cali, Valle del Cauca",3.7,3,479.3824,"pharmacy,store,health,electronics_store,drugstore",Cali,1,1828,0,0,0,8,10
+Servientrega Kennedy,4.623409,-74.1524562,83,"Cl. 37 Sur #78 H - 28, Kennedy, Bogotá, Cundinamarca",3.7,2,286.8876,"clothing_store,store,finance,school,home_goods_store",Bogota,1,1392,0,4,0,0,15
+Servientrega Efecty Laureles La 80,6.247583199999999,-75.60268649999999,81,"Cra. 81 #26-37, Simón Bolívar, Medellín, La América, Medellín, Antioquia",4.0,5,933.3508,"finance,store,drugstore,health,clothing_store",Medellin,0,830,0,4,0,4,10
+Servientrega La Setenta,6.245317,-75.58981419999999,79,"Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia",4.2,2,286.8876,"pharmacy,health,store,lodging,post_office",Medellin,0,3056,0,0,0,8,5
+Servientrega El Rodeo (Carulla Cristo rey),6.2051826,-75.5879253,58,"Calle 6 #52-92, Guayabal, Medellín, Guayabal, Medellín, Antioquia",4.2,4,785.2492,"finance,food,clothing_store,store,general_contractor",Medellin,1,1468,0,4,3,0,10
+Servientrega Siete De Agosto Cra 24,4.658138999999999,-74.070441,57,"Cra. 24 #66-45, Barrios Unidos, Bogotá, Cundinamarca",3.4,2,286.8876,"shopping_mall,lodging,finance,clothing_store,store",Bogota,1,1059,0,4,0,0,15
+Servientrega Ciudad Jardin,3.3617296,-76.5315528,54,"Cl. 18 #1-5, Cañasgordas, Cali, Valle del Cauca",3.9,6,1295.3598,"lodging,hair_care,finance,dentist,doctor",Cali,1,1934,0,4,0,8,0
