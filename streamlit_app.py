@@ -1,8 +1,14 @@
+import streamlit as st
+
+
+st.markdown ("""
+
 # Final-Project
 
 
 ## **Project Description: Finding the Best Location for Interrapidisimo in Cali, Colombia**
-![loco](imagens/logo.png)
+
+![logo](./imagens/logo.png)
 
 The primary objective of this endeavor is to locate the ideal site for a new Interrapidisimo branch in Cali, Colombia. The Colombian courier service Interrapidisimo operates several branches all over the nation. We have chosen to use the quantity of Google reviews and the average rating as key indicators of a franchise's success because specific business performance data is hard to come by in Colombia. Even though these elements might not cover every aspect that contributes to a franchise's success, we think that a high number of positive reviews and a respectable rating are excellent indicators of a successful franchise.
 
@@ -101,6 +107,16 @@ In summary, poorly performing and less-visited shipping franchises tend to be lo
 
 ### **Discovering the Ideal Location: A Success-Driven Approach for a New Interrapidisimo in Cali**
 
-After conducting an exhaustive search, I discovered a promising location in Cali that embodies several of the characteristics found to be associated with positive results in our investigation. Moreover, this spot avoids the traits that could be linked to the underperformance of an Interrapidisimo branch.
+After conducting an exhaustive search, I discovered a promising location in Cali that embodies several of the characteristics found to be associated with positive results in our investigation. Moreover, this spot avoids the traits that could be linked to the underperformance of an Interrapidisimo branch and is free of direct competition in the area.
 
-The site was picked because it has a large population density, is on a major thoroughfare, and is in the middle-low socioeconomic range. In addition to these positive aspects, the location is conveniently close to retail establishments. This set of characteristics fits in well with the learnings from our study, making this place a strong candidate for a brand-new, flourishing Interrapidisimo in Cali, Colombia.
+The chosen location boasts a high population density, is situated on a main street, and falls within a middle-low socio-economic stratum. In addition to these favorable factors, the site is conveniently located near shopping places and has no direct competition from other courier services. This combination of attributes aligns well with the insights gathered from our research, making this location a strong contender for a new and thriving Interrapidisimo branch in Cali, Colombia.
+
+
+
+
+          
+             
+             
+             
+             """)
+
