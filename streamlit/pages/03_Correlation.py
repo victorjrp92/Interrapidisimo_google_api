@@ -8,8 +8,6 @@ st.write("""
 In order to conduct a more thorough investigation of possible correlations, I chose to create dummy variables for the different kinds of businesses that are located close to the Interrapidisimo branches. I was able to explore the complex connections between the commercial environment and the top-performing Interrapidisimo branches by conducting this analysis particularly for the best_inter data frame.
 """)
 
-st.image("imagens/type.png", width=600)
-
 st.write("""
 To achieve this, I created two correlation matrices - one based on the Number of Reviews and another on the Rating. This approach allowed me to examine the complex relationships between the performance of Interrapidisimo branches and various factors, such as the types of businesses in the surrounding area and demographic characteristics.
 """)
